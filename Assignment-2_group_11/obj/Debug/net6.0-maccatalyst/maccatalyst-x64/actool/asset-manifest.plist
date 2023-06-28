@@ -6,9 +6,9 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/harnoordhindsa/Projects/Assignment-2_group_11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/bundle/Assets.car</string>
-			<string>/Users/harnoordhindsa/Projects/Assignment-2_group_11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/bundle/appicon.icns</string>
-			<string>/Users/harnoordhindsa/Projects/Assignment-2_group_11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/partial-info.plist</string>
+			<string>/Users/harnoordhindsa/Projects/Assignment_2_Grp-11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/bundle/Assets.car</string>
+			<string>/Users/harnoordhindsa/Projects/Assignment_2_Grp-11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/bundle/appicon.icns</string>
+			<string>/Users/harnoordhindsa/Projects/Assignment_2_Grp-11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

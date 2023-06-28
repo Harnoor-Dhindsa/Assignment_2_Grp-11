@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Assignment-2_group_11.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/harnoordhindsa/Projects/Assignment-2_group_11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/harnoordhindsa/Projects/Assignment_2_Grp-11/Assignment-2_group_11/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Assignment-2_group_11.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/harnoordhindsa/Projects/Assignment-2_group_11/Assignment-2_group_11</SourceProjectPath>
+      <SourceProjectPath>/Users/harnoordhindsa/Projects/Assignment_2_Grp-11/Assignment-2_group_11</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

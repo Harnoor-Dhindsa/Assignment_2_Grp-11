@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Components.WebView.Maui;
-using Assignment_2_group_11.Data;
 
 namespace Assignment_2_group_11;
 
