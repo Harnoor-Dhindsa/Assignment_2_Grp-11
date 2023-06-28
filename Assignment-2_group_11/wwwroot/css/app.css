@@ -83,7 +83,35 @@ a, .btn-link {
     }
 }
 
-#f_h1{
+#F_h1{
     text-align:center;
+}
+#R_h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: -15px
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-left: -400px
+}
+
+.input-box {
+    display: block;
+    margin-top: 5px;
+    width: 440px;
+}
+
+#findbtn{
+    width: 200px;
+    margin-top: 30px;
 }
 
