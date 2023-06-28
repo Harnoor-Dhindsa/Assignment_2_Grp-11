@@ -1,5 +1,25 @@
-﻿@page "/Flights"
+@page "/Flights"
+@using Assignment_2_group_11.Data;
 
-<h1 id="f_h1">Flight Finder</h1>
+<h1 id="F_h1">Flight Finder</h1>
 
-// flight codeg
+<div class="container">
+    <div>
+        <label class="label" for="from">From:</label>
+        <input type="text" placeholder="Any" id="from" class="input-box"/>
+    </div>
+
+    <div>
+        <label class="label" for="to">To:</label>
+        <input type="text" placeholder="Any" id="to" class="input-box"/>
+    </div>
+
+    <div>
+        <label class="label" for="day">Day:</label>
+        <input type="text" placeholder="Any" id="day" class="input-box"/>
+    </div>
+
+    <div>
+        <button id="findbtn">Find Flights</button>
+    </div>
+</div>
